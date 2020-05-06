@@ -1,0 +1,41 @@
+<div class="header relative">
+    <div class="warp o_g">
+        <div class="flex_box">
+            <div class="nav_left">
+                <div class="logo">
+                    <img src="./images/tupian/logo.png" alt="">
+                </div>
+                <div class="nav_detail">
+                    <a>首页</a>
+                    <a>了解大赛</a>
+                    <a>我的参赛</a>
+                    <a class="xuanzhong">参赛作品</a>
+                    <a>赛事动态</a>
+                    <a>获奖公示</a>
+                    <a class="zuihou">历届动态</a>
+                </div>
+            </div>
+            <div class="nav_right">
+                <div class="pcduan">
+                    <a class="js_denglu">登录</a>
+                    <a class="register">注册</a>
+                </div>
+                <div class="padduan">
+                    <span class="iconfont js_login_icon">&#xe633;</span>
+                    <span class="iconfont menu">&#xe63a;</span>
+                    <div class="close_menu displaynone js_close_menu">
+                        <span class="iconfont">&#xe65c;</span>
+                    </div>
+                </div>
+                <div class="login_success displaynone js_login_success">
+                    <span class="iconfont">&#xe633;</span>
+                    <div class="name_tuichu">
+                        <span class="name">tt123456</span>
+                        <i>|</i>
+                        <span class="tuichu">退出</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
